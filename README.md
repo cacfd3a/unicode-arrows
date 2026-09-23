@@ -1,5 +1,5 @@
 # Arrows →
-182 Unicode arrows.
+266 Unicode arrows.
 
 ### Contents
 
@@ -57,15 +57,27 @@
 
 <a href="#cat-concave--squat">Concave / Squat</a> ➧
 
-➪ <a href="#cat-shaded--shadowed">Shaded / Shadowed</a> ➩
+🢠 <a href="#cat-shaded--shadowed">Shaded / Shadowed</a> ➩
+
+🡐 <a href="#cat-sans-serif">Sans-Serif</a> 🡒
 
 <a href="#cat-feathered">Feathered</a> ➳
 
 <a href="#cat-teardrop--wedge">Teardrop &amp; Wedge</a> ➺
 
+🡠 <a href="#cat-wide-headed-barb-arrows">Wide-Headed Barb Arrows</a> 🡢
+
 <a href="#cat-outlined">Outlined</a> ➾
 
+🢐 <a href="#cat-triangle-arrowhead">Triangle Arrowhead</a> 🢒
+
 ⬅ <a href="#cat-black--white-compass">Black &amp; White Compass</a> ⬄
+
+🢘 <a href="#cat-notched-tail">Notched Tail</a> 🢚
+
+<a href="#cat-arrow-shaft-width">Arrow Shaft Width</a>
+
+🢰 <a href="#cat-compound-direction">Compound Direction</a> 🢱
 
 ⬐ <a href="#cat-arrow-with-tip-direction">Arrow With Tip Direction</a> ⬎
 
@@ -164,12 +176,10 @@
 # ↜
 | Leftwards Wave Arrow | `\u219C` |
 | --- | --- |
-| TeX |  | 
 
 # ↝
 | Rightwards Wave Arrow | `\u219D` |
 | --- | --- |
-| TeX |  | 
 
 # ↭
 | Left Right Wave Arrow | `\u21AD` |
@@ -179,7 +189,6 @@
 # ⇜
 | Leftwards Squiggle Arrow | `\u21DC` |
 | --- | --- |
-| TeX |  | 
 
 # ⇝
 | Rightwards Squiggle Arrow | `\u21DD` |
@@ -189,7 +198,6 @@
 # ⟿
 | Long Rightwards Squiggle Arrow | `\u27FF` |
 | --- | --- |
-| TeX |  | 
 
 ---
 
@@ -203,7 +211,6 @@
 # ↟
 | Upwards Two Headed Arrow | `\u219F` |
 | --- | --- |
-| TeX |  | 
 
 # ↠
 | Rightwards Two Headed Arrow | `\u21A0` |
@@ -213,7 +220,6 @@
 # ↡
 | Downwards Two Headed Arrow | `\u21A1` |
 | --- | --- |
-| TeX |  | 
 
 ---
 
@@ -241,7 +247,6 @@
 # ↥
 | Upwards Arrow From Bar | `\u21A5` |
 | --- | --- |
-| TeX |  | 
 
 # ↦
 | Rightwards Arrow From Bar | `\u21A6` |
@@ -251,22 +256,18 @@
 # ↧
 | Downwards Arrow From Bar | `\u21A7` |
 | --- | --- |
-| TeX |  | 
 
 # ↨
 | Up Down Arrow With Base | `\u21A8` |
 | --- | --- |
-| TeX |  | 
 
 # ⇤
 | Leftwards Arrow To Bar | `\u21E4` |
 | --- | --- |
-| TeX |  | 
 
 # ⇥
 | Rightwards Arrow To Bar | `\u21E5` |
 | --- | --- |
-| TeX |  | 
 
 # ⟻
 | Long Leftwards Arrow From Bar | `\u27FB` |
@@ -281,12 +282,10 @@
 # ⟽
 | Long Leftwards Double Arrow From Bar | `\u27FD` |
 | --- | --- |
-| TeX |  | 
 
 # ⟾
 | Long Rightwards Double Arrow From Bar | `\u27FE` |
 | --- | --- |
-| TeX |  | 
 
 ---
 
@@ -323,7 +322,6 @@
 # ↯
 | Downwards Zigzag Arrow | `\u21AF` |
 | --- | --- |
-| TeX |  | 
 
 ---
 
@@ -342,22 +340,18 @@
 # ↲
 | Downwards Arrow With Tip Leftwards | `\u21B2` |
 | --- | --- |
-| TeX |  | 
 
 # ↳
 | Downwards Arrow With Tip Rightwards | `\u21B3` |
 | --- | --- |
-| TeX |  | 
 
 # ↴
 | Rightwards Arrow With Corner Downwards | `\u21B4` |
 | --- | --- |
-| TeX |  | 
 
 # ↵
 | Downwards Arrow With Corner Leftwards | `\u21B5` |
 | --- | --- |
-| TeX |  | 
 
 ---
 
@@ -390,12 +384,10 @@
 # ⟲
 | Anticlockwise Gapped Circle Arrow | `\u27F2` |
 | --- | --- |
-| TeX |  | 
 
 # ⟳
 | Clockwise Gapped Circle Arrow | `\u27F3` |
 | --- | --- |
-| TeX |  | 
 
 ---
 
@@ -463,7 +455,6 @@
 # ⇅
 | Upwards Arrow Leftwards Of Downwards Arrow | `\u21C5` |
 | --- | --- |
-| TeX |  | 
 
 # ⇆
 | Leftwards Arrow Over Rightwards Arrow | `\u21C6` |
@@ -493,7 +484,6 @@
 # ⇵
 | Downwards Arrow Leftwards Of Upwards Arrow | `\u21F5` |
 | --- | --- |
-| TeX |  | 
 
 ---
 
@@ -566,12 +556,10 @@
 # ⟰
 | Upwards Quadruple Arrow | `\u27F0` |
 | --- | --- |
-| TeX |  | 
 
 # ⟱
 | Downwards Quadruple Arrow | `\u27F1` |
 | --- | --- |
-| TeX |  | 
 
 ---
 
@@ -580,27 +568,22 @@
 # ⇞
 | Upwards Arrow With Double Stroke | `\u21DE` |
 | --- | --- |
-| TeX |  | 
 
 # ⇟
 | Downwards Arrow With Double Stroke | `\u21DF` |
 | --- | --- |
-| TeX |  | 
 
 # ⇺
 | Leftwards Arrow With Double Vertical Stroke | `\u21FA` |
 | --- | --- |
-| TeX |  | 
 
 # ⇻
 | Rightwards Arrow With Double Vertical Stroke | `\u21FB` |
 | --- | --- |
-| TeX |  | 
 
 # ⇼
 | Left Right Arrow With Double Vertical Stroke | `\u21FC` |
 | --- | --- |
-| TeX |  | 
 
 ---
 
@@ -609,22 +592,18 @@
 # ⇠
 | Leftwards Dashed Arrow | `\u21E0` |
 | --- | --- |
-| TeX |  | 
 
 # ⇡
 | Upwards Dashed Arrow | `\u21E1` |
 | --- | --- |
-| TeX |  | 
 
 # ⇢
 | Rightwards Dashed Arrow | `\u21E2` |
 | --- | --- |
-| TeX |  | 
 
 # ⇣
 | Downwards Dashed Arrow | `\u21E3` |
 | --- | --- |
-| TeX |  | 
 
 ---
 
@@ -633,77 +612,62 @@
 # ⇦
 | Leftwards White Arrow | `\u21E6` |
 | --- | --- |
-| TeX |  | 
 
 # ⇧
 | Upwards White Arrow | `\u21E7` |
 | --- | --- |
-| TeX |  | 
 
 # ⇨
 | Rightwards White Arrow | `\u21E8` |
 | --- | --- |
-| TeX |  | 
 
 # ⇩
 | Downwards White Arrow | `\u21E9` |
 | --- | --- |
-| TeX |  | 
 
 # ⇪
 | Upwards White Arrow From Bar | `\u21EA` |
 | --- | --- |
-| TeX |  | 
 
 # ⇫
 | Upwards White Arrow On Pedestal | `\u21EB` |
 | --- | --- |
-| TeX |  | 
 
 # ⇬
 | Upwards White Arrow On Pedestal With Horizontal Bar | `\u21EC` |
 | --- | --- |
-| TeX |  | 
 
 # ⇭
 | Upwards White Arrow On Pedestal With Vertical Bar | `\u21ED` |
 | --- | --- |
-| TeX |  | 
 
 # ⇮
 | Upwards White Double Arrow | `\u21EE` |
 | --- | --- |
-| TeX |  | 
 
 # ⇯
 | Upwards White Double Arrow On Pedestal | `\u21EF` |
 | --- | --- |
-| TeX |  | 
 
 # ⇰
 | Rightwards White Arrow From Wall | `\u21F0` |
 | --- | --- |
-| TeX |  | 
 
 # ⇳
 | Up Down White Arrow | `\u21F3` |
 | --- | --- |
-| TeX |  | 
 
 # ⇽
 | Leftwards Open-Headed Arrow | `\u21FD` |
 | --- | --- |
-| TeX |  | 
 
 # ⇾
 | Rightwards Open-Headed Arrow | `\u21FE` |
 | --- | --- |
-| TeX |  | 
 
 # ⇿
 | Left Right Open-Headed Arrow | `\u21FF` |
 | --- | --- |
-| TeX |  | 
 
 ---
 
@@ -712,12 +676,10 @@
 # ⇱
 | North West Arrow To Corner | `\u21F1` |
 | --- | --- |
-| TeX |  | 
 
 # ⇲
 | South East Arrow To Corner | `\u21F2` |
 | --- | --- |
-| TeX |  | 
 
 ---
 
@@ -726,17 +688,14 @@
 # ⇷
 | Leftwards Arrow With Vertical Stroke | `\u21F7` |
 | --- | --- |
-| TeX |  | 
 
 # ⇸
 | Rightwards Arrow With Vertical Stroke | `\u21F8` |
 | --- | --- |
-| TeX |  | 
 
 # ⇹
 | Left Right Arrow With Vertical Stroke | `\u21F9` |
 | --- | --- |
-| TeX |  | 
 
 ---
 
@@ -745,12 +704,10 @@
 # ⇴
 | Right Arrow With Small Circle | `\u21F4` |
 | --- | --- |
-| TeX |  | 
 
 # ⇶
 | Three Rightwards Arrows | `\u21F6` |
 | --- | --- |
-| TeX |  | 
 
 ---
 
@@ -793,52 +750,50 @@
 # ➔
 | Heavy Wide-Headed Rightwards Arrow | `\u2794` |
 | --- | --- |
-| TeX |  | 
 
 # ➘
 | Heavy South East Arrow | `\u2798` |
 | --- | --- |
-| TeX |  | 
 
 # ➙
 | Heavy Rightwards Arrow | `\u2799` |
 | --- | --- |
-| TeX |  | 
 
 # ➚
 | Heavy North East Arrow | `\u279A` |
 | --- | --- |
-| TeX |  | 
 
 # ➛
 | Drafting Point Rightwards Arrow | `\u279B` |
 | --- | --- |
-| TeX |  | 
 
 # ➜
 | Heavy Round-Tipped Rightwards Arrow | `\u279C` |
 | --- | --- |
-| TeX |  | 
 
 # ➝
 | Triangle-Headed Rightwards Arrow | `\u279D` |
 | --- | --- |
-| TeX |  | 
 
 # ➞
 | Heavy Triangle-Headed Rightwards Arrow | `\u279E` |
 | --- | --- |
-| TeX |  | 
 
 # ➟
 | Dashed Triangle-Headed Rightwards Arrow | `\u279F` |
 | --- | --- |
-| TeX |  | 
 
 # ➠
 | Heavy Dashed Triangle-Headed Rightwards Arrow | `\u27A0` |
 | --- | --- |
-| TeX |  | 
+
+# 🡆
+| Rightwards Heavy Arrow | `\u1F846` |
+| --- | --- |
+
+# 🡇
+| Downwards Heavy Arrow | `\u1F847` |
+| --- | --- |
 
 ---
 
@@ -847,22 +802,18 @@
 # ➡
 | Black Rightwards Arrow | `\u27A1` |
 | --- | --- |
-| TeX |  | 
 
 # ➢
 | Three-D Top-Lighted Rightwards Arrowhead | `\u27A2` |
 | --- | --- |
-| TeX |  | 
 
 # ➣
 | Three-D Bottom-Lighted Rightwards Arrowhead | `\u27A3` |
 | --- | --- |
-| TeX |  | 
 
 # ➤
 | Black Rightwards Arrowhead | `\u27A4` |
 | --- | --- |
-| TeX |  | 
 
 ---
 
@@ -871,12 +822,10 @@
 # ➥
 | Heavy Black Curved Downwards And Rightwards Arrow | `\u27A5` |
 | --- | --- |
-| TeX |  | 
 
 # ➦
 | Heavy Black Curved Upwards And Rightwards Arrow | `\u27A6` |
 | --- | --- |
-| TeX |  | 
 
 ---
 
@@ -885,12 +834,10 @@
 # ➧
 | Squat Black Rightwards Arrow | `\u27A7` |
 | --- | --- |
-| TeX |  | 
 
 # ➨
 | Heavy Concave-Pointed Black Rightwards Arrow | `\u27A8` |
 | --- | --- |
-| TeX |  | 
 
 ---
 
@@ -899,47 +846,130 @@
 # ➩
 | Right-Shaded White Rightwards Arrow | `\u27A9` |
 | --- | --- |
-| TeX |  | 
 
 # ➪
 | Left-Shaded White Rightwards Arrow | `\u27AA` |
 | --- | --- |
-| TeX |  | 
 
 # ➫
 | Back-Tilted Shadowed White Rightwards Arrow | `\u27AB` |
 | --- | --- |
-| TeX |  | 
 
 # ➬
 | Front-Tilted Shadowed White Rightwards Arrow | `\u27AC` |
 | --- | --- |
-| TeX |  | 
 
 # ➭
 | Heavy Lower Right-Shadowed White Rightwards Arrow | `\u27AD` |
 | --- | --- |
-| TeX |  | 
 
 # ➮
 | Heavy Upper Right-Shadowed White Rightwards Arrow | `\u27AE` |
 | --- | --- |
-| TeX |  | 
 
 # ➯
 | Notched Lower Right-Shadowed White Rightwards Arrow | `\u27AF` |
 | --- | --- |
-| TeX |  | 
 
 # ➱
 | Notched Upper Right-Shadowed White Rightwards Arrow | `\u27B1` |
 | --- | --- |
-| TeX |  | 
 
 # ➲
 | Circled Heavy White Rightwards Arrow | `\u27B2` |
 | --- | --- |
-| TeX |  | 
+
+# 🢠
+| Leftwards Bottom-shaded White Arrow | `\u1F8A0` |
+| --- | --- |
+
+# 🢡
+| Rightwards Bottom Shaded White Arrow | `\u1F8A1` |
+| --- | --- |
+
+# 🢢
+| Leftwards Top Shaded White Arrow | `\u1F8A2` |
+| --- | --- |
+
+# 🢣
+| Rightwards Top Shaded White Arrow | `\u1F8A3` |
+| --- | --- |
+
+# 🢤
+| Leftwards Left-shaded White Arrow | `\u1F8A4` |
+| --- | --- |
+
+# 🢥
+| Rightwards Right-shaded White Arrow | `\u1F8A5` |
+| --- | --- |
+
+# 🢦
+| Leftwards Right-shaded White Arrow | `\u1F8A6` |
+| --- | --- |
+
+# 🢧
+| Rightwards Left-shaded White Arrow | `\u1F8A7` |
+| --- | --- |
+
+# 🢨
+| Leftwards Back-tilted Shadowed White Arrow | `\u1F8A8` |
+| --- | --- |
+
+# 🢩
+| Rightwards Back-tilted Shadowed White Arrow | `\u1F8A9` |
+| --- | --- |
+
+# 🢪
+| Leftwards Front-tilted Shadowed White Arrow | `\u1F8AA` |
+| --- | --- |
+
+# 🢫
+| Rightwards Front-tilted Shadowed White Arrow | `\u1F8AB` |
+| --- | --- |
+
+---
+
+<h2 id="cat-sans-serif">Sans-Serif</h2>
+
+# 🡐
+| Leftwards Sans-serif Arrow | `\u1F850` |
+| --- | --- |
+
+# 🡑
+| Upwards Sans-serif Arrow | `\u1F851` |
+| --- | --- |
+
+# 🡒
+| Rightwards Sans-serif Arrow | `\u1F852` |
+| --- | --- |
+
+# 🡓
+| Downwards Sans-serif Arrow | `\u1F853` |
+| --- | --- |
+
+# 🡔
+| North West Sans-serif Arrow | `\u1F854` |
+| --- | --- |
+
+# 🡕
+| North East Sans-serif Arrow | `\u1F855` |
+| --- | --- |
+
+# 🡖
+| South East Sans-serif Arrow | `\u1F856` |
+| --- | --- |
+
+# 🡗
+| South West Sans-serif Arrow | `\u1F857` |
+| --- | --- |
+
+# 🡘
+| Left Right Sans-serif Arrow | `\u1F858` |
+| --- | --- |
+
+# 🡙
+| Up Down Sans-serif Arrow | `\u1F859` |
+| --- | --- |
 
 ---
 
@@ -948,37 +978,30 @@
 # ➳
 | White-Feathered Rightwards Arrow | `\u27B3` |
 | --- | --- |
-| TeX |  | 
 
 # ➴
 | Black-Feathered South East Arrow | `\u27B4` |
 | --- | --- |
-| TeX |  | 
 
 # ➵
 | Black-Feathered Rightwards Arrow | `\u27B5` |
 | --- | --- |
-| TeX |  | 
 
 # ➶
 | Black-Feathered North East Arrow | `\u27B6` |
 | --- | --- |
-| TeX |  | 
 
 # ➷
 | Heavy Black-Feathered South East Arrow | `\u27B7` |
 | --- | --- |
-| TeX |  | 
 
 # ➸
 | Heavy Black-Feathered Rightwards Arrow | `\u27B8` |
 | --- | --- |
-| TeX |  | 
 
 # ➹
 | Heavy Black-Feathered North East Arrow | `\u27B9` |
 | --- | --- |
-| TeX |  | 
 
 ---
 
@@ -987,22 +1010,182 @@
 # ➺
 | Teardrop-Barbed Rightwards Arrow | `\u27BA` |
 | --- | --- |
-| TeX |  | 
 
 # ➻
 | Heavy Teardrop-Shanked Rightwards Arrow | `\u27BB` |
 | --- | --- |
-| TeX |  | 
 
 # ➼
 | Wedge-Tailed Rightwards Arrow | `\u27BC` |
 | --- | --- |
-| TeX |  | 
 
 # ➽
 | Heavy Wedge-Tailed Rightwards Arrow | `\u27BD` |
 | --- | --- |
-| TeX |  | 
+
+---
+
+<h2 id="cat-wide-headed-barb-arrows">Wide-Headed Barb Arrows</h2>
+
+# 🡠
+| Wide-headed Leftwards Light Barb Arrow | `\u1F860` |
+| --- | --- |
+
+# 🡡
+| Wide-headed Upwards Light Barb Arrow | `\u1F861` |
+| --- | --- |
+
+# 🡢
+| Wide-headed Rightwards Light Barb Arrow | `\u1F862` |
+| --- | --- |
+
+# 🡣
+| Wide-headed Downwards Light Barb Arrow | `\u1F863` |
+| --- | --- |
+
+# 🡤
+| Wide-headed North West Light Barb Arrow | `\u1F864` |
+| --- | --- |
+
+# 🡥
+| Wide-headed North East Light Barb Arrow | `\u1F865` |
+| --- | --- |
+
+# 🡦
+| Wide-headed South East Light Barb Arrow | `\u1F866` |
+| --- | --- |
+
+# 🡧
+| Wide-headed South West Light Barb Arrow | `\u1F867` |
+| --- | --- |
+
+# 🡨
+| Wide-headed Leftwards Barb Arrow | `\u1F868` |
+| --- | --- |
+
+# 🡩
+| Wide-headed Upwards Barb Arrow | `\u1F869` |
+| --- | --- |
+
+# 🡪
+| Wide-headed Rightwards Barb Arrow | `\u1F86A` |
+| --- | --- |
+
+# 🡫
+| Wide-headed Downwards Barb Arrow | `\u1F86B` |
+| --- | --- |
+
+# 🡬
+| Wide-headed North West Barb Arrow | `\u1F86C` |
+| --- | --- |
+
+# 🡭
+| Wide-headed North East Barb Arrow | `\u1F86D` |
+| --- | --- |
+
+# 🡮
+| Wide-headed South East Barb Arrow | `\u1F86E` |
+| --- | --- |
+
+# 🡯
+| Wide-headed South West Barb Arrow | `\u1F86F` |
+| --- | --- |
+
+# 🡰
+| Wide-headed Leftwards Medium Barb Arrow | `\u1F870` |
+| --- | --- |
+
+# 🡱
+| Wide-headed Upwards Medium Barb Arrow | `\u1F871` |
+| --- | --- |
+
+# 🡲
+| Wide-headed Rightwards Medium Barb Arrow | `\u1F872` |
+| --- | --- |
+
+# 🡳
+| Wide-headed Downwards Medium Barb Arrow | `\u1F873` |
+| --- | --- |
+
+# 🡴
+| Wide-headed North West Medium Barb Arrow | `\u1F874` |
+| --- | --- |
+
+# 🡵
+| Wide-headed North East Medium Barb Arrow | `\u1F875` |
+| --- | --- |
+
+# 🡶
+| Wide-headed South East Medium Barb Arrow | `\u1F876` |
+| --- | --- |
+
+# 🡷
+| Wide-headed South West Medium Barb Arrow | `\u1F877` |
+| --- | --- |
+
+# 🡸
+| Wide-headed Leftwards Heavy Barb Arrow | `\u1F878` |
+| --- | --- |
+
+# 🡹
+| Wide-headed Upwards Heavy Barb Arrow | `\u1F879` |
+| --- | --- |
+
+# 🡺
+| Wide-headed Rightwards Heavy Barb Arrow | `\u1F87A` |
+| --- | --- |
+
+# 🡻
+| Wide-headed Downwards Heavy Barb Arrow | `\u1F87B` |
+| --- | --- |
+
+# 🡼
+| Wide-headed North West Heavy Barb Arrow | `\u1F87C` |
+| --- | --- |
+
+# 🡽
+| Wide-headed North East Heavy Barb Arrow | `\u1F87D` |
+| --- | --- |
+
+# 🡾
+| Wide-headed South East Heavy Barb Arrow | `\u1F87E` |
+| --- | --- |
+
+# 🡿
+| Wide-headed South West Heavy Barb Arrow | `\u1F87F` |
+| --- | --- |
+
+# 🢀
+| Wide-headed Leftwards Very Heavy Barb Arrow | `\u1F880` |
+| --- | --- |
+
+# 🢁
+| Wide-headed Upwards Very Heavy Barb Arrow | `\u1F881` |
+| --- | --- |
+
+# 🢂
+| Wide-headed Rightwards Very Heavy Barb Arrow | `\u1F882` |
+| --- | --- |
+
+# 🢃
+| Wide-headed Downwards Very Heavy Barb Arrow | `\u1F883` |
+| --- | --- |
+
+# 🢄
+| Wide-headed North West Very Heavy Barb Arrow | `\u1F884` |
+| --- | --- |
+
+# 🢅
+| Wide-headed North East Very Heavy Barb Arrow | `\u1F885` |
+| --- | --- |
+
+# 🢆
+| Wide-headed South East Very Heavy Barb Arrow | `\u1F886` |
+| --- | --- |
+
+# 🢇
+| Wide-headed South West Very Heavy Barb Arrow | `\u1F887` |
+| --- | --- |
 
 ---
 
@@ -1011,7 +1194,42 @@
 # ➾
 | Open-Outlined Rightwards Arrow | `\u27BE` |
 | --- | --- |
-| TeX |  | 
+
+---
+
+<h2 id="cat-triangle-arrowhead">Triangle Arrowhead</h2>
+
+# 🢐
+| Leftwards Triangle Arrowhead | `\u1F890` |
+| --- | --- |
+
+# 🢑
+| Upwards Triangle Arrowhead | `\u1F891` |
+| --- | --- |
+
+# 🢒
+| Rightwards Triangle Arrowhead | `\u1F892` |
+| --- | --- |
+
+# 🢓
+| Downwards Triangle Arrowhead | `\u1F893` |
+| --- | --- |
+
+# 🢔
+| Leftwards White Arrow Within Triangle Arrowhead | `\u1F894` |
+| --- | --- |
+
+# 🢕
+| Upwards White Arrow Within Triangle Arrowhead | `\u1F895` |
+| --- | --- |
+
+# 🢖
+| Rightwards White Arrow Within Triangle Arrowhead | `\u1F896` |
+| --- | --- |
+
+# 🢗
+| Downwards White Arrow Within Triangle Arrowhead | `\u1F897` |
+| --- | --- |
 
 ---
 
@@ -1020,72 +1238,118 @@
 # ⬀
 | North East White Arrow | `\u2B00` |
 | --- | --- |
-| TeX |  | 
 
 # ⬁
 | North West White Arrow | `\u2B01` |
 | --- | --- |
-| TeX |  | 
 
 # ⬂
 | South East White Arrow | `\u2B02` |
 | --- | --- |
-| TeX |  | 
 
 # ⬃
 | South West White Arrow | `\u2B03` |
 | --- | --- |
-| TeX |  | 
 
 # ⬄
 | Left Right White Arrow | `\u2B04` |
 | --- | --- |
-| TeX |  | 
 
 # ⬅
 | Leftwards Black Arrow | `\u2B05` |
 | --- | --- |
-| TeX |  | 
 
 # ⬆
 | Upwards Black Arrow | `\u2B06` |
 | --- | --- |
-| TeX |  | 
 
 # ⬇
 | Downwards Black Arrow | `\u2B07` |
 | --- | --- |
-| TeX |  | 
 
 # ⬈
 | North East Black Arrow | `\u2B08` |
 | --- | --- |
-| TeX |  | 
 
 # ⬉
 | North West Black Arrow | `\u2B09` |
 | --- | --- |
-| TeX |  | 
 
 # ⬊
 | South East Black Arrow | `\u2B0A` |
 | --- | --- |
-| TeX |  | 
 
 # ⬋
 | South West Black Arrow | `\u2B0B` |
 | --- | --- |
-| TeX |  | 
 
 # ⬌
 | Left Right Black Arrow | `\u2B0C` |
 | --- | --- |
-| TeX |  | 
 
 # ⬍
 | Up Down Black Arrow | `\u2B0D` |
 | --- | --- |
-| TeX |  | 
+
+---
+
+<h2 id="cat-notched-tail">Notched Tail</h2>
+
+# 🢘
+| Leftwards Arrow With Notched Tail | `\u1F898` |
+| --- | --- |
+
+# 🢙
+| Upwards Arrow With Notched Tail | `\u1F899` |
+| --- | --- |
+
+# 🢚
+| Rightwards Arrow With Notched Tail | `\u1F89A` |
+| --- | --- |
+
+# 🢛
+| Downwards Arrow With Notched Tail | `\u1F89B` |
+| --- | --- |
+
+---
+
+<h2 id="cat-arrow-shaft-width">Arrow Shaft Width</h2>
+
+# 🢜
+| Heavy Arrow Shaft Width One | `\u1F89C` |
+| --- | --- |
+
+# 🢝
+| Heavy Arrow Shaft Width Two Thirds | `\u1F89D` |
+| --- | --- |
+
+# 🢞
+| Heavy Arrow Shaft Width One Half | `\u1F89E` |
+| --- | --- |
+
+# 🢟
+| Heavy Arrow Shaft Width One Third | `\u1F89F` |
+| --- | --- |
+
+# 🢬
+| White Arrow Shaft Width One | `\u1F8AC` |
+| --- | --- |
+
+# 🢭
+| White Arrow Shaft Width Two Thirds | `\u1F8AD` |
+| --- | --- |
+
+---
+
+<h2 id="cat-compound-direction">Compound Direction</h2>
+
+# 🢰
+| Arrow Pointing Upwards Then North West | `\u1F8B0` |
+| --- | --- |
+
+# 🢱
+| Arrow Pointing Rightwards Then Curving South West | `\u1F8B1` |
+| --- | --- |
 
 ---
 
@@ -1094,22 +1358,19 @@
 # ⬎
 | Rightwards Arrow With Tip Downwards | `\u2B0E` |
 | --- | --- |
-| TeX |  | 
 
 # ⬏
 | Rightwards Arrow With Tip Upwards | `\u2B0F` |
 | --- | --- |
-| TeX |  | 
 
 # ⬐
 | Leftwards Arrow With Tip Downwards | `\u2B10` |
 | --- | --- |
-| TeX |  | 
 
 # ⬑
 | Leftwards Arrow With Tip Upwards | `\u2B11` |
 | --- | --- |
-| TeX |  | 
+
 ---
 
 Covers Unicode Arrows (U+2190–U+21FF), Supplemental Arrows-A (U+27F0–U+27FF), the Dingbats arrow set (U+2794–U+27BE), and Misc Symbols and Arrows (U+2B00–U+2B11).

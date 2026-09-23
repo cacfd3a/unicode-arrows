@@ -1,15 +1,15 @@
 [
 {"cat": "Basic Directional", "items": [
-{"ch": "←", "name": "Leftwards Arrow", "tex": "\\leftarrow", "texpkg": "core", "texalt": "\\gets"},
-{"ch": "↑", "name": "Upwards Arrow", "tex": "\\uparrow", "texpkg": "core"},
-{"ch": "→", "name": "Rightwards Arrow", "tex": "\\rightarrow", "texpkg": "core", "texalt": "\\to"},
-{"ch": "↓", "name": "Downwards Arrow", "tex": "\\downarrow", "texpkg": "core"},
-{"ch": "↔", "name": "Left Right Arrow", "tex": "\\leftrightarrow", "texpkg": "core"},
-{"ch": "↕", "name": "Up Down Arrow", "tex": "\\updownarrow", "texpkg": "core"},
-{"ch": "↖", "name": "North West Arrow", "tex": "\\nwarrow", "texpkg": "core"},
-{"ch": "↗", "name": "North East Arrow", "tex": "\\nearrow", "texpkg": "core"},
-{"ch": "↘", "name": "South East Arrow", "tex": "\\searrow", "texpkg": "core"},
-{"ch": "↙", "name": "South West Arrow", "tex": "\\swarrow", "texpkg": "core"}
+{"ch": "←", "name": "Leftwards Arrow", "tex": "\\leftarrow", "texalt": "\\gets"},
+{"ch": "↑", "name": "Upwards Arrow", "tex": "\\uparrow"},
+{"ch": "→", "name": "Rightwards Arrow", "tex": "\\rightarrow", "texalt": "\\to"},
+{"ch": "↓", "name": "Downwards Arrow", "tex": "\\downarrow"},
+{"ch": "↔", "name": "Left Right Arrow", "tex": "\\leftrightarrow"},
+{"ch": "↕", "name": "Up Down Arrow", "tex": "\\updownarrow"},
+{"ch": "↖", "name": "North West Arrow", "tex": "\\nwarrow"},
+{"ch": "↗", "name": "North East Arrow", "tex": "\\nearrow"},
+{"ch": "↘", "name": "South East Arrow", "tex": "\\searrow"},
+{"ch": "↙", "name": "South West Arrow", "tex": "\\swarrow"}
 ]},
 {"cat": "Negated / With Stroke", "items": [
 {"ch": "↚", "name": "Leftwards Arrow With Stroke", "tex": "\\nleftarrow", "texpkg": "amssymb"},
@@ -20,18 +20,18 @@
 {"ch": "⇏", "name": "Rightwards Double Arrow With Stroke", "tex": "\\nRightarrow", "texpkg": "amssymb"}
 ]},
 {"cat": "Wave & Squiggly", "items": [
-{"ch": "↜", "name": "Leftwards Wave Arrow", "tex": null, "texpkg": null},
-{"ch": "↝", "name": "Rightwards Wave Arrow", "tex": null, "texpkg": null},
+{"ch": "↜", "name": "Leftwards Wave Arrow"},
+{"ch": "↝", "name": "Rightwards Wave Arrow"},
 {"ch": "↭", "name": "Left Right Wave Arrow", "tex": "\\leftrightsquigarrow", "texpkg": "amssymb"},
-{"ch": "⇜", "name": "Leftwards Squiggle Arrow", "tex": null, "texpkg": null},
+{"ch": "⇜", "name": "Leftwards Squiggle Arrow"},
 {"ch": "⇝", "name": "Rightwards Squiggle Arrow", "tex": "\\rightsquigarrow", "texpkg": "amssymb"},
-{"ch": "⟿", "name": "Long Rightwards Squiggle Arrow", "tex": null, "texpkg": null}
+{"ch": "⟿", "name": "Long Rightwards Squiggle Arrow"}
 ]},
 {"cat": "Two-Headed", "items": [
 {"ch": "↞", "name": "Leftwards Two Headed Arrow", "tex": "\\twoheadleftarrow", "texpkg": "amssymb"},
-{"ch": "↟", "name": "Upwards Two Headed Arrow", "tex": null, "texpkg": null},
+{"ch": "↟", "name": "Upwards Two Headed Arrow"},
 {"ch": "↠", "name": "Rightwards Two Headed Arrow", "tex": "\\twoheadrightarrow", "texpkg": "amssymb"},
-{"ch": "↡", "name": "Downwards Two Headed Arrow", "tex": null, "texpkg": null}
+{"ch": "↡", "name": "Downwards Two Headed Arrow"}
 ]},
 {"cat": "With Tail", "items": [
 {"ch": "↢", "name": "Leftwards Arrow With Tail", "tex": "\\leftarrowtail", "texpkg": "amssymb"},
@@ -39,35 +39,35 @@
 ]},
 {"cat": "To / From Bar", "items": [
 {"ch": "↤", "name": "Leftwards Arrow From Bar", "tex": "\\mapsfrom", "texpkg": "mathtools"},
-{"ch": "↥", "name": "Upwards Arrow From Bar", "tex": null, "texpkg": null},
-{"ch": "↦", "name": "Rightwards Arrow From Bar", "tex": "\\mapsto", "texpkg": "core"},
-{"ch": "↧", "name": "Downwards Arrow From Bar", "tex": null, "texpkg": null},
-{"ch": "↨", "name": "Up Down Arrow With Base", "tex": null, "texpkg": null},
-{"ch": "⇤", "name": "Leftwards Arrow To Bar", "tex": null, "texpkg": null},
-{"ch": "⇥", "name": "Rightwards Arrow To Bar", "tex": null, "texpkg": null},
+{"ch": "↥", "name": "Upwards Arrow From Bar"},
+{"ch": "↦", "name": "Rightwards Arrow From Bar", "tex": "\\mapsto"},
+{"ch": "↧", "name": "Downwards Arrow From Bar"},
+{"ch": "↨", "name": "Up Down Arrow With Base"},
+{"ch": "⇤", "name": "Leftwards Arrow To Bar"},
+{"ch": "⇥", "name": "Rightwards Arrow To Bar"},
 {"ch": "⟻", "name": "Long Leftwards Arrow From Bar", "tex": "\\longmapsfrom", "texpkg": "mathtools"},
 {"ch": "⟼", "name": "Long Rightwards Arrow From Bar", "tex": "\\longmapsto", "texpkg": "amsmath"},
-{"ch": "⟽", "name": "Long Leftwards Double Arrow From Bar", "tex": null, "texpkg": null},
-{"ch": "⟾", "name": "Long Rightwards Double Arrow From Bar", "tex": null, "texpkg": null}
+{"ch": "⟽", "name": "Long Leftwards Double Arrow From Bar"},
+{"ch": "⟾", "name": "Long Rightwards Double Arrow From Bar"}
 ]},
 {"cat": "Hooked (Undo / Redo)", "items": [
-{"ch": "↩", "name": "Leftwards Arrow With Hook", "tex": "\\hookleftarrow", "texpkg": "core"},
-{"ch": "↪", "name": "Rightwards Arrow With Hook", "tex": "\\hookrightarrow", "texpkg": "core"}
+{"ch": "↩", "name": "Leftwards Arrow With Hook", "tex": "\\hookleftarrow"},
+{"ch": "↪", "name": "Rightwards Arrow With Hook", "tex": "\\hookrightarrow"}
 ]},
 {"cat": "Looped", "items": [
 {"ch": "↫", "name": "Leftwards Arrow With Loop", "tex": "\\looparrowleft", "texpkg": "amssymb"},
 {"ch": "↬", "name": "Rightwards Arrow With Loop", "tex": "\\looparrowright", "texpkg": "amssymb"}
 ]},
 {"cat": "Zigzag", "items": [
-{"ch": "↯", "name": "Downwards Zigzag Arrow", "tex": null, "texpkg": null}
+{"ch": "↯", "name": "Downwards Zigzag Arrow"}
 ]},
 {"cat": "Corner & Tip", "items": [
 {"ch": "↰", "name": "Upwards Arrow With Tip Leftwards", "tex": "\\Lsh", "texpkg": "amssymb"},
 {"ch": "↱", "name": "Upwards Arrow With Tip Rightwards", "tex": "\\Rsh", "texpkg": "amssymb"},
-{"ch": "↲", "name": "Downwards Arrow With Tip Leftwards", "tex": null, "texpkg": null},
-{"ch": "↳", "name": "Downwards Arrow With Tip Rightwards", "tex": null, "texpkg": null},
-{"ch": "↴", "name": "Rightwards Arrow With Corner Downwards", "tex": null, "texpkg": null},
-{"ch": "↵", "name": "Downwards Arrow With Corner Leftwards", "tex": null, "texpkg": null}
+{"ch": "↲", "name": "Downwards Arrow With Tip Leftwards"},
+{"ch": "↳", "name": "Downwards Arrow With Tip Rightwards"},
+{"ch": "↴", "name": "Rightwards Arrow With Corner Downwards"},
+{"ch": "↵", "name": "Downwards Arrow With Corner Leftwards"}
 ]},
 {"cat": "Semicircle", "items": [
 {"ch": "↶", "name": "Anticlockwise Top Semicircle Arrow", "tex": "\\curvearrowleft", "texpkg": "amssymb"},
@@ -76,38 +76,38 @@
 {"cat": "Circular / Rotate", "items": [
 {"ch": "↺", "name": "Anticlockwise Open Circle Arrow", "tex": "\\circlearrowleft", "texpkg": "amssymb"},
 {"ch": "↻", "name": "Clockwise Open Circle Arrow", "tex": "\\circlearrowright", "texpkg": "amssymb"},
-{"ch": "⟲", "name": "Anticlockwise Gapped Circle Arrow", "tex": null, "texpkg": null},
-{"ch": "⟳", "name": "Clockwise Gapped Circle Arrow", "tex": null, "texpkg": null}
+{"ch": "⟲", "name": "Anticlockwise Gapped Circle Arrow"},
+{"ch": "⟳", "name": "Clockwise Gapped Circle Arrow"}
 ]},
 {"cat": "Harpoons", "items": [
-{"ch": "↼", "name": "Leftwards Harpoon With Barb Upwards", "tex": "\\leftharpoonup", "texpkg": "core"},
-{"ch": "↽", "name": "Leftwards Harpoon With Barb Downwards", "tex": "\\leftharpoondown", "texpkg": "core"},
+{"ch": "↼", "name": "Leftwards Harpoon With Barb Upwards", "tex": "\\leftharpoonup"},
+{"ch": "↽", "name": "Leftwards Harpoon With Barb Downwards", "tex": "\\leftharpoondown"},
 {"ch": "↾", "name": "Upwards Harpoon With Barb Rightwards", "tex": "\\upharpoonright", "texpkg": "amssymb"},
 {"ch": "↿", "name": "Upwards Harpoon With Barb Leftwards", "tex": "\\upharpoonleft", "texpkg": "amssymb"},
-{"ch": "⇀", "name": "Rightwards Harpoon With Barb Upwards", "tex": "\\rightharpoonup", "texpkg": "core"},
-{"ch": "⇁", "name": "Rightwards Harpoon With Barb Downwards", "tex": "\\rightharpoondown", "texpkg": "core"},
+{"ch": "⇀", "name": "Rightwards Harpoon With Barb Upwards", "tex": "\\rightharpoonup"},
+{"ch": "⇁", "name": "Rightwards Harpoon With Barb Downwards", "tex": "\\rightharpoondown"},
 {"ch": "⇂", "name": "Downwards Harpoon With Barb Rightwards", "tex": "\\downharpoonright", "texpkg": "amssymb"},
 {"ch": "⇃", "name": "Downwards Harpoon With Barb Leftwards", "tex": "\\downharpoonleft", "texpkg": "amssymb"},
-{"ch": "⇋", "name": "Leftwards Harpoon Over Rightwards Harpoon", "tex": "\\leftrightharpoons", "texpkg": "core"},
-{"ch": "⇌", "name": "Rightwards Harpoon Over Leftwards Harpoon", "tex": "\\rightleftharpoons", "texpkg": "core"}
+{"ch": "⇋", "name": "Leftwards Harpoon Over Rightwards Harpoon", "tex": "\\leftrightharpoons"},
+{"ch": "⇌", "name": "Rightwards Harpoon Over Leftwards Harpoon", "tex": "\\rightleftharpoons"}
 ]},
 {"cat": "Paired / Over-Under", "items": [
 {"ch": "⇄", "name": "Rightwards Arrow Over Leftwards Arrow", "tex": "\\rightleftarrows", "texpkg": "amssymb"},
-{"ch": "⇅", "name": "Upwards Arrow Leftwards Of Downwards Arrow", "tex": null, "texpkg": null},
+{"ch": "⇅", "name": "Upwards Arrow Leftwards Of Downwards Arrow"},
 {"ch": "⇆", "name": "Leftwards Arrow Over Rightwards Arrow", "tex": "\\leftrightarrows", "texpkg": "amssymb"},
 {"ch": "⇇", "name": "Leftwards Paired Arrows", "tex": "\\leftleftarrows", "texpkg": "amssymb"},
 {"ch": "⇈", "name": "Upwards Paired Arrows", "tex": "\\upuparrows", "texpkg": "amssymb"},
 {"ch": "⇉", "name": "Rightwards Paired Arrows", "tex": "\\rightrightarrows", "texpkg": "amssymb"},
 {"ch": "⇊", "name": "Downwards Paired Arrows", "tex": "\\downdownarrows", "texpkg": "amssymb"},
-{"ch": "⇵", "name": "Downwards Arrow Leftwards Of Upwards Arrow", "tex": null, "texpkg": null}
+{"ch": "⇵", "name": "Downwards Arrow Leftwards Of Upwards Arrow"}
 ]},
 {"cat": "Double-Line", "items": [
-{"ch": "⇐", "name": "Leftwards Double Arrow", "tex": "\\Leftarrow", "texpkg": "core"},
-{"ch": "⇑", "name": "Upwards Double Arrow", "tex": "\\Uparrow", "texpkg": "core"},
-{"ch": "⇒", "name": "Rightwards Double Arrow", "tex": "\\Rightarrow", "texpkg": "core"},
-{"ch": "⇓", "name": "Downwards Double Arrow", "tex": "\\Downarrow", "texpkg": "core"},
-{"ch": "⇔", "name": "Left Right Double Arrow", "tex": "\\Leftrightarrow", "texpkg": "core"},
-{"ch": "⇕", "name": "Up Down Double Arrow", "tex": "\\Updownarrow", "texpkg": "core"},
+{"ch": "⇐", "name": "Leftwards Double Arrow", "tex": "\\Leftarrow"},
+{"ch": "⇑", "name": "Upwards Double Arrow", "tex": "\\Uparrow"},
+{"ch": "⇒", "name": "Rightwards Double Arrow", "tex": "\\Rightarrow"},
+{"ch": "⇓", "name": "Downwards Double Arrow", "tex": "\\Downarrow"},
+{"ch": "⇔", "name": "Left Right Double Arrow", "tex": "\\Leftrightarrow"},
+{"ch": "⇕", "name": "Up Down Double Arrow", "tex": "\\Updownarrow"},
 {"ch": "⇖", "name": "North West Double Arrow", "tex": "\\Nwarrow", "texpkg": "amssymb"},
 {"ch": "⇗", "name": "North East Double Arrow", "tex": "\\Nearrow", "texpkg": "amssymb"},
 {"ch": "⇘", "name": "South East Double Arrow", "tex": "\\Searrow", "texpkg": "amssymb"},
@@ -116,135 +116,231 @@
 {"cat": "Triple & Quadruple", "items": [
 {"ch": "⇚", "name": "Leftwards Triple Arrow", "tex": "\\Lleftarrow", "texpkg": "amssymb"},
 {"ch": "⇛", "name": "Rightwards Triple Arrow", "tex": "\\Rrightarrow", "texpkg": "amssymb"},
-{"ch": "⟰", "name": "Upwards Quadruple Arrow", "tex": null, "texpkg": null},
-{"ch": "⟱", "name": "Downwards Quadruple Arrow", "tex": null, "texpkg": null}
+{"ch": "⟰", "name": "Upwards Quadruple Arrow"},
+{"ch": "⟱", "name": "Downwards Quadruple Arrow"}
 ]},
 {"cat": "Double Stroke", "items": [
-{"ch": "⇞", "name": "Upwards Arrow With Double Stroke", "tex": null, "texpkg": null},
-{"ch": "⇟", "name": "Downwards Arrow With Double Stroke", "tex": null, "texpkg": null},
-{"ch": "⇺", "name": "Leftwards Arrow With Double Vertical Stroke", "tex": null, "texpkg": null},
-{"ch": "⇻", "name": "Rightwards Arrow With Double Vertical Stroke", "tex": null, "texpkg": null},
-{"ch": "⇼", "name": "Left Right Arrow With Double Vertical Stroke", "tex": null, "texpkg": null}
+{"ch": "⇞", "name": "Upwards Arrow With Double Stroke"},
+{"ch": "⇟", "name": "Downwards Arrow With Double Stroke"},
+{"ch": "⇺", "name": "Leftwards Arrow With Double Vertical Stroke"},
+{"ch": "⇻", "name": "Rightwards Arrow With Double Vertical Stroke"},
+{"ch": "⇼", "name": "Left Right Arrow With Double Vertical Stroke"}
 ]},
 {"cat": "Dashed", "items": [
-{"ch": "⇠", "name": "Leftwards Dashed Arrow", "tex": null, "texpkg": null},
-{"ch": "⇡", "name": "Upwards Dashed Arrow", "tex": null, "texpkg": null},
-{"ch": "⇢", "name": "Rightwards Dashed Arrow", "tex": null, "texpkg": null},
-{"ch": "⇣", "name": "Downwards Dashed Arrow", "tex": null, "texpkg": null}
+{"ch": "⇠", "name": "Leftwards Dashed Arrow"},
+{"ch": "⇡", "name": "Upwards Dashed Arrow"},
+{"ch": "⇢", "name": "Rightwards Dashed Arrow"},
+{"ch": "⇣", "name": "Downwards Dashed Arrow"}
 ]},
 {"cat": "White / Open Outline", "items": [
-{"ch": "⇦", "name": "Leftwards White Arrow", "tex": null, "texpkg": null},
-{"ch": "⇧", "name": "Upwards White Arrow", "tex": null, "texpkg": null},
-{"ch": "⇨", "name": "Rightwards White Arrow", "tex": null, "texpkg": null},
-{"ch": "⇩", "name": "Downwards White Arrow", "tex": null, "texpkg": null},
-{"ch": "⇪", "name": "Upwards White Arrow From Bar", "tex": null, "texpkg": null},
-{"ch": "⇫", "name": "Upwards White Arrow On Pedestal", "tex": null, "texpkg": null},
-{"ch": "⇬", "name": "Upwards White Arrow On Pedestal With Horizontal Bar", "tex": null, "texpkg": null},
-{"ch": "⇭", "name": "Upwards White Arrow On Pedestal With Vertical Bar", "tex": null, "texpkg": null},
-{"ch": "⇮", "name": "Upwards White Double Arrow", "tex": null, "texpkg": null},
-{"ch": "⇯", "name": "Upwards White Double Arrow On Pedestal", "tex": null, "texpkg": null},
-{"ch": "⇰", "name": "Rightwards White Arrow From Wall", "tex": null, "texpkg": null},
-{"ch": "⇳", "name": "Up Down White Arrow", "tex": null, "texpkg": null},
-{"ch": "⇽", "name": "Leftwards Open-Headed Arrow", "tex": null, "texpkg": null},
-{"ch": "⇾", "name": "Rightwards Open-Headed Arrow", "tex": null, "texpkg": null},
-{"ch": "⇿", "name": "Left Right Open-Headed Arrow", "tex": null, "texpkg": null}
+{"ch": "⇦", "name": "Leftwards White Arrow"},
+{"ch": "⇧", "name": "Upwards White Arrow"},
+{"ch": "⇨", "name": "Rightwards White Arrow"},
+{"ch": "⇩", "name": "Downwards White Arrow"},
+{"ch": "⇪", "name": "Upwards White Arrow From Bar"},
+{"ch": "⇫", "name": "Upwards White Arrow On Pedestal"},
+{"ch": "⇬", "name": "Upwards White Arrow On Pedestal With Horizontal Bar"},
+{"ch": "⇭", "name": "Upwards White Arrow On Pedestal With Vertical Bar"},
+{"ch": "⇮", "name": "Upwards White Double Arrow"},
+{"ch": "⇯", "name": "Upwards White Double Arrow On Pedestal"},
+{"ch": "⇰", "name": "Rightwards White Arrow From Wall"},
+{"ch": "⇳", "name": "Up Down White Arrow"},
+{"ch": "⇽", "name": "Leftwards Open-Headed Arrow"},
+{"ch": "⇾", "name": "Rightwards Open-Headed Arrow"},
+{"ch": "⇿", "name": "Left Right Open-Headed Arrow"}
 ]},
 {"cat": "To Corner", "items": [
-{"ch": "⇱", "name": "North West Arrow To Corner", "tex": null, "texpkg": null},
-{"ch": "⇲", "name": "South East Arrow To Corner", "tex": null, "texpkg": null}
+{"ch": "⇱", "name": "North West Arrow To Corner"},
+{"ch": "⇲", "name": "South East Arrow To Corner"}
 ]},
 {"cat": "With Vertical Stroke", "items": [
-{"ch": "⇷", "name": "Leftwards Arrow With Vertical Stroke", "tex": null, "texpkg": null},
-{"ch": "⇸", "name": "Rightwards Arrow With Vertical Stroke", "tex": null, "texpkg": null},
-{"ch": "⇹", "name": "Left Right Arrow With Vertical Stroke", "tex": null, "texpkg": null}
+{"ch": "⇷", "name": "Leftwards Arrow With Vertical Stroke"},
+{"ch": "⇸", "name": "Rightwards Arrow With Vertical Stroke"},
+{"ch": "⇹", "name": "Left Right Arrow With Vertical Stroke"}
 ]},
 {"cat": "Miscellaneous Combos", "items": [
-{"ch": "⇴", "name": "Right Arrow With Small Circle", "tex": null, "texpkg": null},
-{"ch": "⇶", "name": "Three Rightwards Arrows", "tex": null, "texpkg": null}
+{"ch": "⇴", "name": "Right Arrow With Small Circle"},
+{"ch": "⇶", "name": "Three Rightwards Arrows"}
 ]},
 {"cat": "Long Arrows", "items": [
-{"ch": "⟵", "name": "Long Leftwards Arrow", "tex": "\\longleftarrow", "texpkg": "core"},
-{"ch": "⟶", "name": "Long Rightwards Arrow", "tex": "\\longrightarrow", "texpkg": "core"},
-{"ch": "⟷", "name": "Long Left Right Arrow", "tex": "\\longleftrightarrow", "texpkg": "core"},
-{"ch": "⟸", "name": "Long Leftwards Double Arrow", "tex": "\\Longleftarrow", "texpkg": "core"},
-{"ch": "⟹", "name": "Long Rightwards Double Arrow", "tex": "\\Longrightarrow", "texpkg": "core"},
-{"ch": "⟺", "name": "Long Left Right Double Arrow", "tex": "\\Longleftrightarrow", "texpkg": "core"}
+{"ch": "⟵", "name": "Long Leftwards Arrow", "tex": "\\longleftarrow"},
+{"ch": "⟶", "name": "Long Rightwards Arrow", "tex": "\\longrightarrow"},
+{"ch": "⟷", "name": "Long Left Right Arrow", "tex": "\\longleftrightarrow"},
+{"ch": "⟸", "name": "Long Leftwards Double Arrow", "tex": "\\Longleftarrow"},
+{"ch": "⟹", "name": "Long Rightwards Double Arrow", "tex": "\\Longrightarrow"},
+{"ch": "⟺", "name": "Long Left Right Double Arrow", "tex": "\\Longleftrightarrow"}
 ]},
 {"cat": "Heavy / Thick", "items": [
-{"ch": "➔", "name": "Heavy Wide-Headed Rightwards Arrow", "tex": null, "texpkg": null},
-{"ch": "➘", "name": "Heavy South East Arrow", "tex": null, "texpkg": null},
-{"ch": "➙", "name": "Heavy Rightwards Arrow", "tex": null, "texpkg": null},
-{"ch": "➚", "name": "Heavy North East Arrow", "tex": null, "texpkg": null},
-{"ch": "➛", "name": "Drafting Point Rightwards Arrow", "tex": null, "texpkg": null},
-{"ch": "➜", "name": "Heavy Round-Tipped Rightwards Arrow", "tex": null, "texpkg": null},
-{"ch": "➝", "name": "Triangle-Headed Rightwards Arrow", "tex": null, "texpkg": null},
-{"ch": "➞", "name": "Heavy Triangle-Headed Rightwards Arrow", "tex": null, "texpkg": null},
-{"ch": "➟", "name": "Dashed Triangle-Headed Rightwards Arrow", "tex": null, "texpkg": null},
-{"ch": "➠", "name": "Heavy Dashed Triangle-Headed Rightwards Arrow", "tex": null, "texpkg": null}
+{"ch": "➔", "name": "Heavy Wide-Headed Rightwards Arrow"},
+{"ch": "➘", "name": "Heavy South East Arrow"},
+{"ch": "➙", "name": "Heavy Rightwards Arrow"},
+{"ch": "➚", "name": "Heavy North East Arrow"},
+{"ch": "➛", "name": "Drafting Point Rightwards Arrow"},
+{"ch": "➜", "name": "Heavy Round-Tipped Rightwards Arrow"},
+{"ch": "➝", "name": "Triangle-Headed Rightwards Arrow"},
+{"ch": "➞", "name": "Heavy Triangle-Headed Rightwards Arrow"},
+{"ch": "➟", "name": "Dashed Triangle-Headed Rightwards Arrow"},
+{"ch": "➠", "name": "Heavy Dashed Triangle-Headed Rightwards Arrow"},
+{"ch": "🡆", "name": "Rightwards Heavy Arrow"},
+{"ch": "🡇", "name": "Downwards Heavy Arrow"}
 ]},
 {"cat": "Triangle & Solid Heads", "items": [
-{"ch": "➡", "name": "Black Rightwards Arrow", "tex": null, "texpkg": null},
-{"ch": "➢", "name": "Three-D Top-Lighted Rightwards Arrowhead", "tex": null, "texpkg": null},
-{"ch": "➣", "name": "Three-D Bottom-Lighted Rightwards Arrowhead", "tex": null, "texpkg": null},
-{"ch": "➤", "name": "Black Rightwards Arrowhead", "tex": null, "texpkg": null}
+{"ch": "➡", "name": "Black Rightwards Arrow"},
+{"ch": "➢", "name": "Three-D Top-Lighted Rightwards Arrowhead"},
+{"ch": "➣", "name": "Three-D Bottom-Lighted Rightwards Arrowhead"},
+{"ch": "➤", "name": "Black Rightwards Arrowhead"}
 ]},
 {"cat": "Curved Heavy", "items": [
-{"ch": "➥", "name": "Heavy Black Curved Downwards And Rightwards Arrow", "tex": null, "texpkg": null},
-{"ch": "➦", "name": "Heavy Black Curved Upwards And Rightwards Arrow", "tex": null, "texpkg": null}
+{"ch": "➥", "name": "Heavy Black Curved Downwards And Rightwards Arrow"},
+{"ch": "➦", "name": "Heavy Black Curved Upwards And Rightwards Arrow"}
 ]},
 {"cat": "Concave / Squat", "items": [
-{"ch": "➧", "name": "Squat Black Rightwards Arrow", "tex": null, "texpkg": null},
-{"ch": "➨", "name": "Heavy Concave-Pointed Black Rightwards Arrow", "tex": null, "texpkg": null}
+{"ch": "➧", "name": "Squat Black Rightwards Arrow"},
+{"ch": "➨", "name": "Heavy Concave-Pointed Black Rightwards Arrow"}
 ]},
 {"cat": "Shaded / Shadowed", "items": [
-{"ch": "➩", "name": "Right-Shaded White Rightwards Arrow", "tex": null, "texpkg": null},
-{"ch": "➪", "name": "Left-Shaded White Rightwards Arrow", "tex": null, "texpkg": null},
-{"ch": "➫", "name": "Back-Tilted Shadowed White Rightwards Arrow", "tex": null, "texpkg": null},
-{"ch": "➬", "name": "Front-Tilted Shadowed White Rightwards Arrow", "tex": null, "texpkg": null},
-{"ch": "➭", "name": "Heavy Lower Right-Shadowed White Rightwards Arrow", "tex": null, "texpkg": null},
-{"ch": "➮", "name": "Heavy Upper Right-Shadowed White Rightwards Arrow", "tex": null, "texpkg": null},
-{"ch": "➯", "name": "Notched Lower Right-Shadowed White Rightwards Arrow", "tex": null, "texpkg": null},
-{"ch": "➱", "name": "Notched Upper Right-Shadowed White Rightwards Arrow", "tex": null, "texpkg": null},
-{"ch": "➲", "name": "Circled Heavy White Rightwards Arrow", "tex": null, "texpkg": null}
+{"ch": "➩", "name": "Right-Shaded White Rightwards Arrow"},
+{"ch": "➪", "name": "Left-Shaded White Rightwards Arrow"},
+{"ch": "➫", "name": "Back-Tilted Shadowed White Rightwards Arrow"},
+{"ch": "➬", "name": "Front-Tilted Shadowed White Rightwards Arrow"},
+{"ch": "➭", "name": "Heavy Lower Right-Shadowed White Rightwards Arrow"},
+{"ch": "➮", "name": "Heavy Upper Right-Shadowed White Rightwards Arrow"},
+{"ch": "➯", "name": "Notched Lower Right-Shadowed White Rightwards Arrow"},
+{"ch": "➱", "name": "Notched Upper Right-Shadowed White Rightwards Arrow"},
+{"ch": "➲", "name": "Circled Heavy White Rightwards Arrow"},
+{"ch": "🢠", "name": "Leftwards Bottom-shaded White Arrow"},
+{"ch": "🢡", "name": "Rightwards Bottom Shaded White Arrow"},
+{"ch": "🢢", "name": "Leftwards Top Shaded White Arrow"},
+{"ch": "🢣", "name": "Rightwards Top Shaded White Arrow"},
+{"ch": "🢤", "name": "Leftwards Left-shaded White Arrow"},
+{"ch": "🢥", "name": "Rightwards Right-shaded White Arrow"},
+{"ch": "🢦", "name": "Leftwards Right-shaded White Arrow"},
+{"ch": "🢧", "name": "Rightwards Left-shaded White Arrow"},
+{"ch": "🢨", "name": "Leftwards Back-tilted Shadowed White Arrow"},
+{"ch": "🢩", "name": "Rightwards Back-tilted Shadowed White Arrow"},
+{"ch": "🢪", "name": "Leftwards Front-tilted Shadowed White Arrow"},
+{"ch": "🢫", "name": "Rightwards Front-tilted Shadowed White Arrow"}
+]},
+{"cat": "Sans-Serif", "items": [
+{"ch": "🡐", "name": "Leftwards Sans-serif Arrow"},
+{"ch": "🡑", "name": "Upwards Sans-serif Arrow"},
+{"ch": "🡒", "name": "Rightwards Sans-serif Arrow"},
+{"ch": "🡓", "name": "Downwards Sans-serif Arrow"},
+{"ch": "🡔", "name": "North West Sans-serif Arrow"},
+{"ch": "🡕", "name": "North East Sans-serif Arrow"},
+{"ch": "🡖", "name": "South East Sans-serif Arrow"},
+{"ch": "🡗", "name": "South West Sans-serif Arrow"},
+{"ch": "🡘", "name": "Left Right Sans-serif Arrow"},
+{"ch": "🡙", "name": "Up Down Sans-serif Arrow"}
 ]},
 {"cat": "Feathered", "items": [
-{"ch": "➳", "name": "White-Feathered Rightwards Arrow", "tex": null, "texpkg": null},
-{"ch": "➴", "name": "Black-Feathered South East Arrow", "tex": null, "texpkg": null},
-{"ch": "➵", "name": "Black-Feathered Rightwards Arrow", "tex": null, "texpkg": null},
-{"ch": "➶", "name": "Black-Feathered North East Arrow", "tex": null, "texpkg": null},
-{"ch": "➷", "name": "Heavy Black-Feathered South East Arrow", "tex": null, "texpkg": null},
-{"ch": "➸", "name": "Heavy Black-Feathered Rightwards Arrow", "tex": null, "texpkg": null},
-{"ch": "➹", "name": "Heavy Black-Feathered North East Arrow", "tex": null, "texpkg": null}
+{"ch": "➳", "name": "White-Feathered Rightwards Arrow"},
+{"ch": "➴", "name": "Black-Feathered South East Arrow"},
+{"ch": "➵", "name": "Black-Feathered Rightwards Arrow"},
+{"ch": "➶", "name": "Black-Feathered North East Arrow"},
+{"ch": "➷", "name": "Heavy Black-Feathered South East Arrow"},
+{"ch": "➸", "name": "Heavy Black-Feathered Rightwards Arrow"},
+{"ch": "➹", "name": "Heavy Black-Feathered North East Arrow"}
 ]},
 {"cat": "Teardrop & Wedge", "items": [
-{"ch": "➺", "name": "Teardrop-Barbed Rightwards Arrow", "tex": null, "texpkg": null},
-{"ch": "➻", "name": "Heavy Teardrop-Shanked Rightwards Arrow", "tex": null, "texpkg": null},
-{"ch": "➼", "name": "Wedge-Tailed Rightwards Arrow", "tex": null, "texpkg": null},
-{"ch": "➽", "name": "Heavy Wedge-Tailed Rightwards Arrow", "tex": null, "texpkg": null}
+{"ch": "➺", "name": "Teardrop-Barbed Rightwards Arrow"},
+{"ch": "➻", "name": "Heavy Teardrop-Shanked Rightwards Arrow"},
+{"ch": "➼", "name": "Wedge-Tailed Rightwards Arrow"},
+{"ch": "➽", "name": "Heavy Wedge-Tailed Rightwards Arrow"}
+]},
+{"cat": "Wide-Headed Barb Arrows", "items": [
+{"ch": "🡠", "name": "Wide-headed Leftwards Light Barb Arrow"},
+{"ch": "🡡", "name": "Wide-headed Upwards Light Barb Arrow"},
+{"ch": "🡢", "name": "Wide-headed Rightwards Light Barb Arrow"},
+{"ch": "🡣", "name": "Wide-headed Downwards Light Barb Arrow"},
+{"ch": "🡤", "name": "Wide-headed North West Light Barb Arrow"},
+{"ch": "🡥", "name": "Wide-headed North East Light Barb Arrow"},
+{"ch": "🡦", "name": "Wide-headed South East Light Barb Arrow"},
+{"ch": "🡧", "name": "Wide-headed South West Light Barb Arrow"},
+{"ch": "🡨", "name": "Wide-headed Leftwards Barb Arrow"},
+{"ch": "🡩", "name": "Wide-headed Upwards Barb Arrow"},
+{"ch": "🡪", "name": "Wide-headed Rightwards Barb Arrow"},
+{"ch": "🡫", "name": "Wide-headed Downwards Barb Arrow"},
+{"ch": "🡬", "name": "Wide-headed North West Barb Arrow"},
+{"ch": "🡭", "name": "Wide-headed North East Barb Arrow"},
+{"ch": "🡮", "name": "Wide-headed South East Barb Arrow"},
+{"ch": "🡯", "name": "Wide-headed South West Barb Arrow"},
+{"ch": "🡰", "name": "Wide-headed Leftwards Medium Barb Arrow"},
+{"ch": "🡱", "name": "Wide-headed Upwards Medium Barb Arrow"},
+{"ch": "🡲", "name": "Wide-headed Rightwards Medium Barb Arrow"},
+{"ch": "🡳", "name": "Wide-headed Downwards Medium Barb Arrow"},
+{"ch": "🡴", "name": "Wide-headed North West Medium Barb Arrow"},
+{"ch": "🡵", "name": "Wide-headed North East Medium Barb Arrow"},
+{"ch": "🡶", "name": "Wide-headed South East Medium Barb Arrow"},
+{"ch": "🡷", "name": "Wide-headed South West Medium Barb Arrow"},
+{"ch": "🡸", "name": "Wide-headed Leftwards Heavy Barb Arrow"},
+{"ch": "🡹", "name": "Wide-headed Upwards Heavy Barb Arrow"},
+{"ch": "🡺", "name": "Wide-headed Rightwards Heavy Barb Arrow"},
+{"ch": "🡻", "name": "Wide-headed Downwards Heavy Barb Arrow"},
+{"ch": "🡼", "name": "Wide-headed North West Heavy Barb Arrow"},
+{"ch": "🡽", "name": "Wide-headed North East Heavy Barb Arrow"},
+{"ch": "🡾", "name": "Wide-headed South East Heavy Barb Arrow"},
+{"ch": "🡿", "name": "Wide-headed South West Heavy Barb Arrow"},
+{"ch": "🢀", "name": "Wide-headed Leftwards Very Heavy Barb Arrow"},
+{"ch": "🢁", "name": "Wide-headed Upwards Very Heavy Barb Arrow"},
+{"ch": "🢂", "name": "Wide-headed Rightwards Very Heavy Barb Arrow"},
+{"ch": "🢃", "name": "Wide-headed Downwards Very Heavy Barb Arrow"},
+{"ch": "🢄", "name": "Wide-headed North West Very Heavy Barb Arrow"},
+{"ch": "🢅", "name": "Wide-headed North East Very Heavy Barb Arrow"},
+{"ch": "🢆", "name": "Wide-headed South East Very Heavy Barb Arrow"},
+{"ch": "🢇", "name": "Wide-headed South West Very Heavy Barb Arrow"}
 ]},
 {"cat": "Outlined", "items": [
-{"ch": "➾", "name": "Open-Outlined Rightwards Arrow", "tex": null, "texpkg": null}
+{"ch": "➾", "name": "Open-Outlined Rightwards Arrow"}
+]},
+{"cat": "Triangle Arrowhead", "items": [
+{"ch": "🢐", "name": "Leftwards Triangle Arrowhead"},
+{"ch": "🢑", "name": "Upwards Triangle Arrowhead"},
+{"ch": "🢒", "name": "Rightwards Triangle Arrowhead"},
+{"ch": "🢓", "name": "Downwards Triangle Arrowhead"},
+{"ch": "🢔", "name": "Leftwards White Arrow Within Triangle Arrowhead"},
+{"ch": "🢕", "name": "Upwards White Arrow Within Triangle Arrowhead"},
+{"ch": "🢖", "name": "Rightwards White Arrow Within Triangle Arrowhead"},
+{"ch": "🢗", "name": "Downwards White Arrow Within Triangle Arrowhead"}
 ]},
 {"cat": "Black & White Compass", "items": [
-{"ch": "⬀", "name": "North East White Arrow", "tex": null, "texpkg": null},
-{"ch": "⬁", "name": "North West White Arrow", "tex": null, "texpkg": null},
-{"ch": "⬂", "name": "South East White Arrow", "tex": null, "texpkg": null},
-{"ch": "⬃", "name": "South West White Arrow", "tex": null, "texpkg": null},
-{"ch": "⬄", "name": "Left Right White Arrow", "tex": null, "texpkg": null},
-{"ch": "⬅", "name": "Leftwards Black Arrow", "tex": null, "texpkg": null},
-{"ch": "⬆", "name": "Upwards Black Arrow", "tex": null, "texpkg": null},
-{"ch": "⬇", "name": "Downwards Black Arrow", "tex": null, "texpkg": null},
-{"ch": "⬈", "name": "North East Black Arrow", "tex": null, "texpkg": null},
-{"ch": "⬉", "name": "North West Black Arrow", "tex": null, "texpkg": null},
-{"ch": "⬊", "name": "South East Black Arrow", "tex": null, "texpkg": null},
-{"ch": "⬋", "name": "South West Black Arrow", "tex": null, "texpkg": null},
-{"ch": "⬌", "name": "Left Right Black Arrow", "tex": null, "texpkg": null},
-{"ch": "⬍", "name": "Up Down Black Arrow", "tex": null, "texpkg": null}
+{"ch": "⬀", "name": "North East White Arrow"},
+{"ch": "⬁", "name": "North West White Arrow"},
+{"ch": "⬂", "name": "South East White Arrow"},
+{"ch": "⬃", "name": "South West White Arrow"},
+{"ch": "⬄", "name": "Left Right White Arrow"},
+{"ch": "⬅", "name": "Leftwards Black Arrow"},
+{"ch": "⬆", "name": "Upwards Black Arrow"},
+{"ch": "⬇", "name": "Downwards Black Arrow"},
+{"ch": "⬈", "name": "North East Black Arrow"},
+{"ch": "⬉", "name": "North West Black Arrow"},
+{"ch": "⬊", "name": "South East Black Arrow"},
+{"ch": "⬋", "name": "South West Black Arrow"},
+{"ch": "⬌", "name": "Left Right Black Arrow"},
+{"ch": "⬍", "name": "Up Down Black Arrow"}
+]},
+{"cat": "Notched Tail", "items": [
+{"ch": "🢘", "name": "Leftwards Arrow With Notched Tail"},
+{"ch": "🢙", "name": "Upwards Arrow With Notched Tail"},
+{"ch": "🢚", "name": "Rightwards Arrow With Notched Tail"},
+{"ch": "🢛", "name": "Downwards Arrow With Notched Tail"}
+]},
+{"cat": "Arrow Shaft Width", "items": [
+{"ch": "🢜", "name": "Heavy Arrow Shaft Width One"},
+{"ch": "🢝", "name": "Heavy Arrow Shaft Width Two Thirds"},
+{"ch": "🢞", "name": "Heavy Arrow Shaft Width One Half"},
+{"ch": "🢟", "name": "Heavy Arrow Shaft Width One Third"},
+{"ch": "🢬", "name": "White Arrow Shaft Width One"},
+{"ch": "🢭", "name": "White Arrow Shaft Width Two Thirds"}
+]},
+{"cat": "Compound Direction", "items": [
+{"ch": "🢰", "name": "Arrow Pointing Upwards Then North West"},
+{"ch": "🢱", "name": "Arrow Pointing Rightwards Then Curving South West"}
 ]},
 {"cat": "Arrow With Tip Direction", "items": [
-{"ch": "⬎", "name": "Rightwards Arrow With Tip Downwards", "tex": null, "texpkg": null},
-{"ch": "⬏", "name": "Rightwards Arrow With Tip Upwards", "tex": null, "texpkg": null},
-{"ch": "⬐", "name": "Leftwards Arrow With Tip Downwards", "tex": null, "texpkg": null},
-{"ch": "⬑", "name": "Leftwards Arrow With Tip Upwards", "tex": null, "texpkg": null}
+{"ch": "⬎", "name": "Rightwards Arrow With Tip Downwards"},
+{"ch": "⬏", "name": "Rightwards Arrow With Tip Upwards"},
+{"ch": "⬐", "name": "Leftwards Arrow With Tip Downwards"},
+{"ch": "⬑", "name": "Leftwards Arrow With Tip Upwards"}
 ]}
 ]
