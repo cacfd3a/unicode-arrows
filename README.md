@@ -1,5 +1,5 @@
-# Arrows →
-266 Unicode arrows.
+# [Arrows](https://arrow.blackenvelope.net/) →
+Unicode arrows for quick copying.
 
 ### Contents
 
